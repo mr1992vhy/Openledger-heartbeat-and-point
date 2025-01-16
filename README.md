@@ -46,5 +46,5 @@ python bot.py #or python3 bot.py
 after the run you must be see log like this : 
 ![image](https://github.com/user-attachments/assets/cb26917e-a9b1-4764-8dab-ad47338febb8)
 
-# ⚠️ **Disclaimer**  
+# ⚠️ **pay attention**  
 Please note: The use of this bot is entirely at your own risk. Any consequences, including account bans or restrictions resulting from improper use of this bot, are solely your responsibility. This bot assumes no liability for any issues that may arise for users. By using this bot, you agree to these terms.
