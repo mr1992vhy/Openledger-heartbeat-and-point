@@ -1,4 +1,12 @@
+![image](https://github.com/user-attachments/assets/6b3468fb-d66c-41b2-8467-362c991e9d22)
+
 # Openledger-heartbeat-and-point
+
+OpenLedger: A Blockchain for AI Data Management
+
+OpenLedger is a blockchain-based network designed to serve as a secure and decentralized platform for managing AI-related data. Its innovative architecture enables efficient storage, sharing, and utilization of data while ensuring transparency and accountability.
+
+# How to start 
 
 * go to Openledger site and signup 
 link : https://testnet.openledger.xyz/?referral_code=qx4eqasmdq
