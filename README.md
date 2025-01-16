@@ -43,6 +43,11 @@ nano manual_proxy.txt
 ```
 python bot.py #or python3 bot.py
 ```
+* you have 3 options for start it :
+* 1- run with default proxy
+* 2- run with manual proxy ( you add it )
+* 3- run without proxy ( do not select it )
+
 after the run you must be see log like this : 
 ![image](https://github.com/user-attachments/assets/cb26917e-a9b1-4764-8dab-ad47338febb8)
 
