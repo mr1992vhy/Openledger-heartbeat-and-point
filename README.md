@@ -49,7 +49,7 @@ nano manual_proxy.txt
 ```
 python bot.py #or python3 bot.py
 ```
-* you have 3 options for start it :
+## you have 3 options for start it :
 * 1- run with default proxy
 * 2- run with manual proxy ( you add it )
 * 3- run without proxy ( do not select it )
